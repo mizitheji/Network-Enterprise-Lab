@@ -123,3 +123,5 @@ Hypervisor
   - Splash page is hosted directly on MikroTik
   - Internet access granted only after acceptance/login
   - Guest are not allow to access internal VLAN/Network
+
+---
