@@ -130,7 +130,7 @@ systemctl status zabbix-server zabbix-agent nginx
 ## 🖥️ 9. Web Interface Setup
 Open your browser and navigate to:
 ```bash
-http://192.168.40.100:8080/zabbix
+http://192.168.40.101:8080/zabbix
 ```
 Follow the setup wizard:
 1. Check prerequisites
