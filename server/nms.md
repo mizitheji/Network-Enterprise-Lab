@@ -157,3 +157,5 @@ Recommended next steps:
 ```link
 https://www.howtoforge.com/how-to-install-zabbix-on-ubuntu-24-04/
 ```
+
+---
